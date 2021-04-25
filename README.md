@@ -29,7 +29,7 @@
 
 # :house: About
 
-This one project was cread in next level week, promoted per Rockeatseat, at trail of nodeJs.
+This one project was created in next level week, promoted per Rocketseat, at trail of nodeJs.
 
 ---
 
@@ -56,13 +56,7 @@ SSH is a secure protocol, but you need to register a key ssh in your github befo
 ## :hammer_and_wrench: Install dependencies
 
 ```bash
-  yarn
-```
-
-or
-
-```bash
-  yarn install
+  yarn start
 ```
 
 ## :rocket: Getting Started
