@@ -1,9 +1,9 @@
 <h1 align="center">
 	Next Level Week by
 	<br/>
-	<img src="./public/rocketseat.svg">
-	<br>
-  <img width="900" src="./public/logo-nlw.jpg">
+	<img src="./rocketseat.svg">
+	<br/>
+  <img width="900" src="./logo-nlw.jpg">
 </h1>
 
 [![Author](https://img.shields.io/badge/author-LeoMSSilva-blue?style=flat-square)](https://github.com/LeoMSSilva)
@@ -16,10 +16,11 @@
 ---
 
 # :pushpin: Table of Contents
+
 - :house: [About](#about)
 - :dart: [Installation](#Installation)
-	- :gear: [Install dependencies](##Install_dependencies)
-	- :rocket: [Getting Started](##Getting_Started)
+  - :gear: [Install dependencies](##Install_dependencies)
+  - :rocket: [Getting Started](##Getting_Started)
 - :computer: [Techs](#Techs)
 - :bust_in_silhouette: [Author](#Author)
 - :handshake: [Contributing](#Contributing)
@@ -70,8 +71,12 @@ SSH is a secure protocol, but you need to register a key ssh in your github befo
 # :computer: Techs
 
 - Javascript
+- Typescript
 - Node.js
 - Express.js
+- Typeorm
+- Sqlite3
+- Socket.io
 
 ---
 
@@ -79,8 +84,8 @@ SSH is a secure protocol, but you need to register a key ssh in your github befo
 
 **LeoMSSilva**
 
-* Github: [@LeoMSSilva](https://github.com/LeoMSSilva)
-* LinkedIn: [@LeoMSSilva](https://linkedin.com/in/LeoMSSilva)
+- Github: [@LeoMSSilva](https://github.com/LeoMSSilva)
+- LinkedIn: [@LeoMSSilva](https://linkedin.com/in/LeoMSSilva)
 
 ---
 
@@ -96,4 +101,4 @@ Copyright :copyright: 2021 [LeoMSSilva](https://github.com/LeoMSSilva).
 <br/>
 This project is [MIT](https://github.com/LeoMSSilva/Next-Level-Week-05-Trilha-De-NodeJs/blob/main/LICENSE) licensed.
 
-***
+---
