@@ -9,13 +9,13 @@
 		"typeorm": "ts-node-dev node_modules/typeorm/cli.js"
 	},
 	"dependencies": {
-		"ejs": "^3.1.7",
+		"ejs": "^3.1.10",
 		"express": "^4.19.2",
 		"reflect-metadata": "^0.1.13",
 		"socket.io": "^4.0.1",
 		"socket.io-client": "^4.0.1",
 		"sqlite3": "^5.1.5",
-		"typeorm": "^0.2.32",
+		"typeorm": "^0.3.0",
 		"uuid": "^8.3.2"
 	},
 	"devDependencies": {
