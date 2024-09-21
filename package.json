@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"ejs": "^3.1.10",
-		"express": "^4.19.2",
+		"express": "^4.20.0",
 		"reflect-metadata": "^0.1.13",
 		"socket.io": "^4.6.2",
 		"socket.io-client": "^4.0.1",
